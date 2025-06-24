@@ -1,12 +1,4 @@
-Here's a polished and professionally rewritten version of your README. It retains all your original ideas but presents them with improved structure, tone, and clarity:
-
----
-
 # **UPSC & PCS AI-Powered Quiz Generator**
-
-**Project: MLBC**
-
----
 
 ## 🚩 Problem Statement
 
