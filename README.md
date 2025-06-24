@@ -179,6 +179,4 @@ streamlit run app.py
 
 This project aims to revolutionize how aspirants prepare for UPSC and PCS by combining **AI** with **interactivity**, **adaptability**, and **analytics**.
 
----
 
-Let me know if you'd like a PDF version or if you’re planning to present this—I'll format it accordingly.
