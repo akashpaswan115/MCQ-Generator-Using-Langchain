@@ -8,11 +8,12 @@ from euriai.langchain_llm import EuriaiLangChainLLM
 from langchain.prompts import PromptTemplate
 from langchain.output_parsers import PydanticOutputParser
 from pydantic import BaseModel, Field, validator
-
-# Load environment variables from .env file
+import streamlit as st
+# # Load environment variables from .env file
 load_dotenv()
+import os
 
-# ✅ Use secure API key loading
+# # ✅ Use secure API key loading
 api_key = os.getenv("EURON_API_TOKEN")
 
 # Define data model for Multiple Choice Questions
