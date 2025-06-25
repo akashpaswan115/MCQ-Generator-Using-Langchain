@@ -1,5 +1,8 @@
 # **UPSC & PCS AI-Powered Quiz Generator**
 
+![alt text](image.png)
+
+
 ## 🚩 Problem Statement
 
 Preparing for highly competitive exams like **UPSC** (Union Public Service Commission) and **PCS** (Provincial Civil Service) presents significant challenges:
